@@ -1,0 +1,568 @@
+input,label
+hiiiiiiiiii,greeting
+hola,greeting
+Hi!,greeting
+Hello!,greeting
+Hey there!,greeting
+Hi there!,greeting
+hii,greeting
+Hey!,greeting
+Greetings!,greeting
+Howdy!,greeting
+What's up?,greeting
+Good day!,greeting
+Good morning!,greeting
+Good afternoon!,greeting
+Good evening!,greeting
+Hiya!,greeting
+Yo!,greeting
+How's it going?,greeting
+What's new?,greeting
+"Well, hello!",greeting
+"Hi, how are you?",greeting
+"Hi, what's up?",greeting
+"Hey, how's it going?",greeting
+"Hey, how are you doing?",greeting
+"Hi, how's everything?",greeting
+Good to see you!,greeting
+"Hi there, what's going on?",greeting
+"Hello, how have you been?",greeting
+"Hey, what's happening?",greeting
+"Hiya, how's your day?",greeting
+"Well, hello there!",greeting
+"Hey, how are things?",greeting
+"Hi, nice to meet you!",greeting
+"Hello, what's new with you?",greeting
+"Hi there, how's life treating you?",greeting
+"Hey, how's your day going?",greeting
+"Hiya, how are things going?",greeting
+"Well, hi there! What's up?",greeting
+"Hello, how have you been lately?",greeting
+"Hi there, what's been going on?",greeting
+"Hey, how are you holding up?",greeting
+"Hi, how's everything going for you?",greeting
+"Well, hello! How are you today?",greeting
+what courses do you offer?,course_inquiry
+courses,course_inquiry
+did your organization provide data science course?,course_inquiry
+did your organization provide Full Stack development course?,course_inquiry
+did your organization provide python course?,course_inquiry
+did your organization provide programming course?,course_inquiry
+available courses,course_inquiry
+What courses do you offer?,course_inquiry
+What courses are available?,course_inquiry
+Can you tell me about your courses?,course_inquiry
+tell me about thecourse you provide?,course_inquiry
+tell me about thecourses you provide?,course_inquiry
+Could you list the courses you provide?,course_inquiry
+Do you have any courses?,course_inquiry
+What kinds of courses do you have?,course_inquiry
+Which courses are you offering?,course_inquiry
+What classes do you offer?,course_inquiry
+Can you provide information on your courses?,course_inquiry
+What educational programs do you offer?,course_inquiry
+What study programs are available?,course_inquiry
+Do you offer any courses?,course_inquiry
+Can you tell me about the courses you have?,course_inquiry
+What are your available courses?,course_inquiry
+What are the courses you currently offer?,course_inquiry
+What training programs do you offer?,course_inquiry
+Could you tell me what courses you have?,course_inquiry
+What subjects do your courses cover?,course_inquiry
+Which courses can I take with you?,course_inquiry
+What classes are you offering right now?,course_inquiry
+Can you list the available courses?,course_inquiry
+What are your current course offerings?,course_inquiry
+What types of courses do you offer?,course_inquiry
+Do you have a list of courses?,course_inquiry
+What are the learning options available?,course_inquiry
+What are the educational opportunities you offer?,course_inquiry
+What lessons do you offer?,course_inquiry
+What are the different courses you provide?,course_inquiry
+Can you give me a rundown of your courses?,course_inquiry
+What courses can I enroll in?,course_inquiry
+Could you inform me about your courses?,course_inquiry
+What training do you offer?,course_inquiry
+What sort of courses are available?,course_inquiry
+What programs of study do you provide?,course_inquiry
+What can I learn from your courses?,course_inquiry
+Which classes are available for enrollment?,course_inquiry
+What is the range of courses you offer?,course_inquiry
+Can you tell me what educational courses you have?,course_inquiry
+What instructional courses are available?,course_inquiry
+Do you have a course catalog?,course_inquiry
+enroll,enrollment
+registration process,enrollment
+What are the enrollment procedures for courses?,enrollment
+How do I enroll in a course?,enrollment
+What steps do I need to take to enroll in a course?,enrollment
+How can I sign up for a course?,enrollment
+What is the process for registering in a course?,enrollment
+How do I join a course?,enrollment
+What do I need to do to enroll in a course?,enrollment
+Can you guide me through the enrollment process for a course?,enrollment
+Please explain how to enroll in a course.,enrollment
+How do I get enrolled in a course?,enrollment
+Could you help me with the course enrollment?,enrollment
+I'm interested in enrolling in a course. What should I do?,enrollment
+What is the procedure for course enrollment?,enrollment
+What is the enrollment process for your courses?,enrollment
+How do I go about enrolling in a course?,enrollment
+What are the requirements to enroll in a course?,enrollment
+How can I register for a course?,enrollment
+What are the steps to register for a course?,enrollment
+How do I apply for a course?,enrollment
+What do I have to do to register for a course?,enrollment
+Can you tell me how to enroll in a course?,enrollment
+What is needed to enroll in a course?,enrollment
+What is the enrollment method for courses?,enrollment
+How do I sign up for a course?,enrollment
+What’s involved in enrolling in a course?,enrollment
+How do I go about signing up for a course?,enrollment
+What is the process to sign up for a course?,enrollment
+What should I do to register for a course?,enrollment
+How can I proceed with course enrollment?,enrollment
+What are the necessary steps to enroll in a course?,enrollment
+How do I initiate enrollment in a course?,enrollment
+Can you explain the enrollment procedure for a course?,enrollment
+How can I begin the enrollment process for a course?,enrollment
+What do I need to do to sign up for a course?,enrollment
+What are the formalities for enrolling in a course?,enrollment
+How can I start the enrollment process for a course?,enrollment
+How do I complete the enrollment for a course?,enrollment
+What’s the registration process for your courses?,enrollment
+How do I finalize my enrollment in a course?,enrollment
+What are the actions required to enroll in a course?,enrollment
+I unable to access my course,technical_support
+course does not reflect in my account,technical_support
+trouble accessing course materials,technical_support
+issues with materials,technical_support
+I paid for a course but it's not showing up on my dashboard.,technical_support
+"I completed a payment, but I can't see the course on my dashboard.",technical_support
+"The payment went through, but I don't see the course on my dashboard.",technical_support
+"I've paid, but the course isn't appearing in my dashboard.",technical_support
+"I made a payment, but the course isn't visible on my dashboard.",technical_support
+"I've paid, but I can't access the course on my dashboard.",technical_support
+"I've completed the payment, but the course hasn't updated on my dashboard.",technical_support
+"I paid for a course, but it's not reflected in my dashboard.",technical_support
+"The payment went through, but the course isn't showing in my dashboard.",technical_support
+"I made a payment, but the course hasn't shown up on my dashboard yet.",technical_support
+I'm having trouble accessing my course materials.,technical_support
+I can't seem to access my course materials.,technical_support
+Can you help me with my course materials access?,technical_support
+I'm unable to access my course materials.,technical_support
+I need help with accessing my course materials.,technical_support
+I'm having difficulties accessing my course materials.,technical_support
+How can I access my course materials?,technical_support
+I'm having issues with my course materials.,technical_support
+My course materials aren't accessible.,technical_support
+I can't open my course materials.,technical_support
+My course materials won't load.,technical_support
+I'm experiencing problems with my course materials.,technical_support
+I'm having trouble with my course materials.,technical_support
+My course materials are not available.,technical_support
+I'm unable to open my course materials.,technical_support
+I need help with my course materials.,technical_support
+Can you assist me with accessing my course materials?,technical_support
+My course materials won't open.,technical_support
+How do I access my course materials?,technical_support
+I'm having trouble getting to my course materials.,technical_support
+My course materials are not loading.,technical_support
+I'm struggling to access my course materials.,technical_support
+I can't get into my course materials.,technical_support
+I'm having access issues with my course materials.,technical_support
+My course materials are not working.,technical_support
+Can you help me get my course materials?,technical_support
+I can't retrieve my course materials.,technical_support
+My course materials are not accessible.,technical_support
+I'm facing trouble with my course materials.,technical_support
+I need assistance with my course materials.,technical_support
+My course materials are not showing up.,technical_support
+I can't view my course materials.,technical_support
+I can't find my course materials.,technical_support
+My course materials are missing.,technical_support
+My course materials are unavailable.,technical_support
+I'm locked out of my course materials.,technical_support
+My course materials are not loading properly.,technical_support
+I'm having a problem with my course materials.,technical_support
+I'm not able to access my course materials.,technical_support
+i have make the payment for a course but course does not reflect in my account,technical_support
+My course materials are inaccessible.,technical_support
+update account information,account_management
+change account details,account_management
+How do I update my account information?,account_management
+How can I change my account details?,account_management
+What are the steps to update my account information?,account_management
+want to update my profile,account_management
+i want to update my phone number?,account_management
+i want to change my phone number,account_management
+How can I edit my account information?,account_management
+How do I modify my account details?,account_management
+How do I update my personal information in my account?,account_management
+What is the process to update my account information?,account_management
+How can I revise my account information?,account_management
+How do I refresh my account details?,account_management
+How can I update my profile information?,account_management
+How do I change my account settings?,account_management
+How do I go about updating my account information?,account_management
+How do I update my details in my account?,account_management
+How can I update my information in my account?,account_management
+How can I change my profile details?,account_management
+How do I update my user information?,account_management
+How can I update my personal details in my account?,account_management
+How do I update my profile details?,account_management
+How can I update my account settings?,account_management
+What should I do to update my account information?,account_management
+How do I edit my personal information in my account?,account_management
+How can I change my personal details in my account?,account_management
+How do I alter my account information?,account_management
+How do I revise my account details?,account_management
+How can I update my user details?,account_management
+How do I update my profile settings?,account_management
+How do I change my account information?,account_management
+How do I modify my profile information?,account_management
+How can I adjust my account details?,account_management
+How do I refresh my profile details?,account_management
+How do I update my user settings?,account_management
+How can I change my personal information in my account?,account_management
+How do I edit my profile details?,account_management
+How do I update my account profile?,account_management
+How can I change my user information?,account_management
+How do I modify my personal details in my account?,account_management
+How do I update my account info?,account_management
+How do I change my account profile details?,account_management
+How do I adjust my personal information?,account_management
+How can I update my profile details in my account?,account_management
+feedback about a course,feedback
+provide feedback,feedback
+I have some feedback about a course.,feedback
+I want to share feedback about a course.,feedback
+I’d like to provide feedback on a course.,feedback
+Can I give feedback about a course?,feedback
+How do I leave feedback for a course?,feedback
+I have comments about a course.,feedback
+I want to give my opinion on a course.,feedback
+Where can I submit feedback for a course?,feedback
+I need to provide feedback on a course.,feedback
+Can I share my thoughts on a course?,feedback
+I have some suggestions for a course.,feedback
+I have feedback regarding a course.,feedback
+How can I provide feedback on a course?,feedback
+I want to give some feedback about a course.,feedback
+I have some input on a course.,feedback
+Where do I go to leave feedback on a course?,feedback
+I need to give feedback about a course.,feedback
+I want to comment on a course.,feedback
+Can I provide my feedback on a course?,feedback
+payment options,payment
+pay for courses,payment
+pay for a course,payment
+What are your payment options?,payment
+How can I pay for courses?,payment
+how to pay?,payment
+What payment methods do you accept?,payment
+What ways can I pay for a course?,payment
+How do I make a payment for a course?,payment
+Can you tell me about the payment methods you offer?,payment
+What forms of payment do you accept?,payment
+What are the available payment options?,payment
+How can I make a payment?,payment
+What payment methods are available?,payment
+How do I pay for a course?,payment
+What are the ways to pay for courses?,payment
+Can you provide information on your payment options?,payment
+What types of payment do you accept?,payment
+What are the different payment methods you offer?,payment
+How do I proceed with payment?,payment
+What payment options do you support?,payment
+How can I complete the payment?,payment
+What are the methods to pay for a course?,payment
+How can I make a payment for my enrollment?,payment
+What payment methods are supported?,payment
+How do I go about paying for a course?,payment
+What are the accepted payment methods?,payment
+How do I settle the payment for a course?,payment
+What are the payment options I can use?,payment
+What are your accepted payment methods?,payment
+What are the choices for payment?,payment
+How can I make a course payment?,payment
+What payment methods can I use?,payment
+How can I pay for my course?,payment
+What are the payment possibilities?,payment
+What are the payment methods?,payment
+Can you tell me the payment options available?,payment
+What are my options for paying for a course?,payment
+What payment types do you accept?,payment
+How can I handle the payment for a course?,payment
+What are your available payment methods?,payment
+How do I make a course payment?,payment
+What are the various payment options?,payment
+What options do I have for paying for courses?,payment
+cancellation policy,cancellation
+cancel enrollment,cancellation
+get a refund,cancellation
+I want to end my course subscription,cancellation
+will i get my money back if i left the course in between any time?,cancellation
+How can I cancel my enrollment and get a refund?,cancellation
+What is the process to cancel my enrollment and receive a refund?,cancellation
+How do I go about canceling my enrollment and getting my money back?,cancellation
+Can you guide me through the steps to cancel my enrollment and obtain a refund?,cancellation
+I need to know how to cancel my course enrollment and get a refund.,cancellation
+How can I withdraw from a course and receive reimbursement?,cancellation
+What are the steps for canceling my enrollment and getting a refund?,cancellation
+Could you explain how to cancel my registration and obtain a reimbursement?,cancellation
+How do I get a refund after canceling my enrollment?,cancellation
+Please tell me the procedure for withdrawing from a course and receiving a refund.,cancellation
+What should I do to cancel my enrollment and ensure I get my money back?,cancellation
+How do I cancel my course enrollment and get refunded?,cancellation
+What’s the process to cancel my enrollment and receive a refund?,cancellation
+How do I cancel my enrollment and receive a reimbursement?,cancellation
+Can you explain the procedure for canceling my course enrollment and getting a refund?,cancellation
+How do I cancel my course and receive a refund?,cancellation
+What are the steps to cancel my enrollment and get a reimbursement?,cancellation
+How do I withdraw from a course and get my money back?,cancellation
+What should I do to get a refund after canceling my enrollment?,cancellation
+How can I get reimbursed after canceling my enrollment?,cancellation
+How do I cancel my enrollment and ensure I receive my refund?,cancellation
+What is the refund process if I cancel my enrollment?,cancellation
+How do I cancel my course enrollment and obtain a refund?,cancellation
+What steps should I take to cancel my enrollment and get my money back?,cancellation
+How do I initiate a cancellation and refund for my enrollment?,cancellation
+What’s the procedure to cancel my enrollment and claim a refund?,cancellation
+How do I cancel my enrollment to receive a refund?,cancellation
+How do I proceed with canceling my enrollment and obtaining a refund?,cancellation
+How do I request a refund after canceling my enrollment?,cancellation
+How do I cancel my course registration and ensure I get my refund?,cancellation
+What are the steps to cancel my enrollment and receive a refund?,cancellation
+How do I cancel my enrollment and get my money back?,cancellation
+Can you assist me with canceling my enrollment and receiving a refund?,cancellation
+How do I initiate a refund for my canceled enrollment?,cancellation
+What is the procedure for canceling my enrollment and claiming a refund?,cancellation
+Could you guide me on canceling my enrollment and getting reimbursed?,cancellation
+How can I withdraw my enrollment and ensure a refund?,cancellation
+What’s the process if I decide to cancel my enrollment and seek a refund?,cancellation
+How do I proceed if I want to cancel my enrollment and get reimbursed?,cancellation
+What steps should I follow to cancel my enrollment and obtain a refund?,cancellation
+dead line for enrollment,deadline
+deadline for enrollment,deadline
+What is the deadline for enrollment?,deadline
+When is the enrollment deadline?,deadline
+When do I need to enroll by?,deadline
+What is the last day to enroll?,deadline
+By when do I need to enroll?,deadline
+When is the enrollment cutoff?,deadline
+What is the final enrollment date?,deadline
+What is the last date for enrollment?,deadline
+What is the enrollment deadline?,deadline
+When do enrollments close?,deadline
+When do I have to enroll?,deadline
+What is the cutoff for enrollment?,deadline
+When is the last day to enroll in courses?,deadline
+What is the last day I can enroll?,deadline
+What is the deadline to enroll in courses?,deadline
+When is the enrollment period ending?,deadline
+When is the last chance to enroll?,deadline
+When does enrollment finish?,deadline
+What is the enrollment cut-off date?,deadline
+When does enrollment stop?,deadline
+When is the enrollment period closing?,deadline
+What's the final day to register for courses?,deadline
+When does enrollment end?,deadline
+What's the enrollment cutoff date?,deadline
+When do I need to enroll by?,deadline
+By what date must I enroll?,deadline
+What's the last day I can sign up for courses?,deadline
+What's the enrollment deadline for this term?,deadline
+When do enrollments cease?,deadline
+What's the last opportunity to enroll?,deadline
+What's the final enrollment day?,deadline
+When does the enrollment window close?,deadline
+By when should I complete enrollment?,deadline
+What's the closing date for enrollment?,deadline
+When is the last enrollment day?,deadline
+When is the final date to join courses?,deadline
+What's the deadline for signing up?,deadline
+When does the enrollment period expire?,deadline
+When is the last date to enroll for this semester?,deadline
+What's the cutoff date for enrollment?,deadline
+thank you,thanks
+thanks,thanks
+Thank you.,thanks
+Thanks.,thanks
+Thank you very much.,thanks
+Thanks a lot.,thanks
+Thank you so much.,thanks
+I appreciate it.,thanks
+Many thanks.,thanks
+Thanks a bunch.,thanks
+Thank you for your help.,thanks
+Thank you for assisting me.,thanks
+Thank you for the information.,thanks
+Thank you for your support.,thanks
+Thank you kindly.,thanks
+Thanks for your assistance.,thanks
+Thank you for your time.,thanks
+Thank you very kindly.,thanks
+Thanks a million.,thanks
+Thank you for everything.,thanks
+I’m grateful.,thanks
+I appreciate your help.,thanks
+I’m grateful for your help.,thanks
+I appreciate your assistance.,thanks
+Many thanks for your support.,thanks
+Thank you so much for your help.,thanks
+Thanks a bunch for your assistance.,thanks
+I truly appreciate it.,thanks
+Thank you kindly for your support.,thanks
+Thanks a million for your help.,thanks
+I want to express my gratitude.,thanks
+I'm thankful for your guidance.,thanks
+Thank you very much indeed.,thanks
+Thanks a lot for your support.,thanks
+I'm thankful for your assistance.,thanks
+Thank you for all your efforts.,thanks
+I really appreciate it.,thanks
+I want to thank you warmly.,thanks
+Thank you from the bottom of my heart.,thanks
+Thanks a ton for your help.,thanks
+I am deeply grateful.,thanks
+Thank you for everything you've done.,thanks
+bye,goodbye
+goodbye,goodbye
+Goodbye.,goodbye
+Bye.,goodbye
+Farewell.,goodbye
+See you later.,goodbye
+Take care.,goodbye
+Have a good day.,goodbye
+Bye-bye.,goodbye
+See you soon.,goodbye
+Catch you later.,goodbye
+Until next time.,goodbye
+So long.,goodbye
+See you.,goodbye
+Have a great day.,goodbye
+Bye now.,goodbye
+Take it easy.,goodbye
+See you next time.,goodbye
+Goodbye for now.,goodbye
+Peace out.,goodbye
+See you around.,goodbye
+Bye for now.,goodbye
+Have a great one.,goodbye
+See you later alligator.,goodbye
+Take care of yourself.,goodbye
+Bye for the moment.,goodbye
+Until we meet again.,goodbye
+Catch you on the flip side.,goodbye
+Fare thee well.,goodbye
+Adios.,goodbye
+Have a good one.,goodbye
+Talk to you later.,goodbye
+Enjoy your day.,goodbye
+See you next time around.,goodbye
+Farewell for now.,goodbye
+Stay safe.,goodbye
+Peace be with you.,goodbye
+Have a nice one.,goodbye
+It's been nice talking to you.,goodbye
+Bye bye for now.,goodbye
+See you next time I'm around.,goodbye
+"Take it easy, see you soon.",goodbye
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+*/,default
+tell me about your organization,organization
+Can you share some details about your organization?,organization
+Please describe your organization.,organization
+Could you introduce your organization?,organization
+I'd like to know more about your organization.,organization
+What can you tell me about your organization?,organization
+Give me some information about your organization.,organization
+Can you provide some background about your organization?,organization
+Could you tell me a bit about your organization?,organization
+Please tell me about your organization's background.,organization
+What should I know about your organization?,organization
+What does your organization do?,organization
+Share something about your organization.,organization
+I'd like to hear more about your organization.,organization
+What can you say about your organization?,organization
+Give me a brief overview of your organization.,organization
+Can you share some details about yourself?,chatbot
+Please describe yourself.,chatbot
+Could you introduce yourself?,chatbot
+I'd like to know more about you.,chatbot
+What can you tell me about you?,chatbot
+Give me some information about yourself.,chatbot
+Can you provide some background about yourself?,chatbot
+Could you tell me a bit about yourself?,chatbot
+Please tell me about your background.,chatbot
+What should I know about you?,chatbot
+Who are you?,chatbot
+Share something about yourself.,chatbot
+I'd like to hear more about you.,chatbot
+What can you say about yourself?,chatbot
+Give me a brief overview of yourself.,chatbot
+"I paid the course fee, but it shows that the payment has not been received.",payment_issue
+"I have paid for the course, but it indicates that the payment hasn't been processed.",payment_issue
+"The course fee has been paid, yet it shows the payment was not received.",payment_issue
+"I completed the payment for the course, but it says the payment hasn't been received.",payment_issue
+"I made the payment for the course, but it shows that it hasn't gone through.",payment_issue
+"I've paid the course fee, but the system says the payment wasn't received.",payment_issue
+"The fee for the course has been paid, but it shows as not received.",payment_issue
+"Although I paid the course fee, it indicates that the payment wasn't received.",payment_issue
+"I have already paid for the course, but it shows that the payment hasn't been acknowledged.",payment_issue
+"I have completed the payment for the course, but it still says the payment was not received.",payment_issue
+"I have already paid for the course, but it is still showing as unpaid.",payment_issue
+"I submitted the course fee, but the system says the payment wasn't received.",payment_issue
+"Despite paying the course fee, it still indicates that the payment hasn't been received.",payment_issue
+"I have the payment confirmation for the course, but it shows the payment was not received.",payment_issue
+"I made the course payment, but it is still reflecting as unpaid.",payment_issue
+"The fee for the course has been paid, yet it still shows that the payment was not received.",payment_issue
+"I have paid the course fee, but the system indicates that the payment hasn't been processed.",payment_issue
+"Although I paid for the course, the status shows that the payment wasn't received.",payment_issue
+"I made the payment for the course, but the system still says it hasn't been received.",payment_issue
+"I have completed the course payment, but it still shows as not received.",payment_issue
+"I processed the course fee, but it indicates the payment wasn't received.",payment_issue
+"I have the receipt for the course fee, but it shows that the payment was not received.",payment_issue
+"Even though I paid for the course, it shows that the payment hasn't gone through.",payment_issue
+"I have settled the course fee, but it still reflects as unpaid.",payment_issue
+"I paid the course fee, but it still indicates that the payment hasn't been received.",payment_issue
