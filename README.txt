@@ -1,17 +1,69 @@
-# CHATBOT FOR EDTECH COMPANY
+# 📚 EdTech Chatbot API
 
-This project is a chatbot for an EdTech company designed to assist users with inquiries about courses, enrollment, technical support, account management, and more. The chatbot interface is built using HTML, CSS, and JavaScript, while the backend logic is handled by a Flask server with Python. Machine learning models are used to understand and respond to user queries.
+An AI-powered chatbot designed for an EdTech platform, built using Flask and NLTK.
 
-# Features
+## 🚀 Features
+- Natural Language Processing (NLP) with NLTK
+- Flask-based API for chatbot interaction
+- Easy integration with EdTech platforms
+- Lightweight and scalable
 
-1. Basic conversational capabilities.
-2. User-friendly interface.
-3. Scalable and extensible design.
+## 🛠 Tech Stack
+- Python
+- Flask
+- NLTK
+- SQLite (or other DB options)
 
+## 📂 Project Structure
+```
+📁 edtech-chatbot-api
+│── 📂 static         # Static files (CSS, JS, etc.)
+│── 📂 templates      # HTML Templates
+│── 📜 app.py        # Main Flask application
+│── 📜 chatbot.py    # Chatbot logic with NLTK
+│── 📜 database.py   # Database connection and models
+│── 📜 requirements.txt # Dependencies
+│── 📜 README.md     # Project Documentation
+```
 
-# Installation
+## 🔧 Setup & Installation
 
-Prerequisites:
-1. Python 3.8+
-2. Flask, pandas, SVC, HTML, CSS, Javascript.
+1️⃣ Clone the repository:
+```sh
+git clone https://github.com/yourusername/edtech-chatbot-api.git
+cd edtech-chatbot-api
+```
 
+2️⃣ Create a virtual environment:
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+3️⃣ Install dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+4️⃣ Run the application:
+```sh
+python app.py
+```
+
+5️⃣ Access the chatbot at:
+```
+http://127.0.0.1:5000
+```
+
+## 📝 API Endpoints
+| Method | Endpoint | Description |
+|--------|----------|--------------|
+| `POST` | `/chat` | Process user query and return chatbot response |
+| `GET`  | `/` | Landing page |
+
+## 📜 License
+This project is open-source under the MIT License.
+
+---
+
+💡 **Contributions Welcome!** Feel free to open issues and pull requests to enhance this chatbot!
