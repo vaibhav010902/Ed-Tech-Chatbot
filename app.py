@@ -1,9 +1,9 @@
-# # This project is licensed under the MIT License. See the LICENSE file for more details.
+# This project is licensed under the MIT License. See the LICENSE file for more details.
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
-# from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import SVC
 import random
 import pandas as pd
@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load SpaCy model
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load('en_core_web_sm')
 
 # Load the training data from the Excel file
 training_data = pd.read_csv('training_data.csv', encoding='latin1')
